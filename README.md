@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/kailzxh/LeetCode/tree/master/0547-number-of-provinces) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/kailzxh/LeetCode/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->
