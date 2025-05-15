@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/kailzxh/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0179-largest-number](https://github.com/kailzxh/LeetCode/tree/master/0179-largest-number) |
 ## Tree
 |  |
 | ------- |
@@ -55,4 +56,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kailzxh/LeetCode/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/kailzxh/LeetCode/tree/master/0179-largest-number) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/kailzxh/LeetCode/tree/master/0179-largest-number) |
+## Sorting
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/kailzxh/LeetCode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
