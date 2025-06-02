@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kailzxh/LeetCode/tree/master/0002-add-two-numbers) |
+| [3201-distribute-candies-among-children-ii](https://github.com/kailzxh/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -126,4 +127,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/kailzxh/LeetCode/tree/master/0198-house-robber) |
+## Combinatorics
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/kailzxh/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/kailzxh/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 <!---LeetCode Topics End-->
