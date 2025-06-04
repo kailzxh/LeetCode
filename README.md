@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/kailzxh/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/kailzxh/LeetCode/tree/master/1036-rotting-oranges) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kailzxh/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1505-create-target-array-in-the-given-order](https://github.com/kailzxh/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/kailzxh/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/kailzxh/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Greedy
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kailzxh/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Simulation
+|  |
+| ------- |
+| [1505-create-target-array-in-the-given-order](https://github.com/kailzxh/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 <!---LeetCode Topics End-->
