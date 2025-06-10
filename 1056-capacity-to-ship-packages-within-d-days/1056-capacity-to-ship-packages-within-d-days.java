@@ -1,5 +1,9 @@
 class Solution {
-    public int shipWithinDays(int[] weights, int days) {
+     static {
+        // Warm up the JVM (optional, used in performance-sensitive contexts)
+        for (int i = 0; i < 300; i++) shipWithinDays(new int[0], 1);
+    }
+    public static int shipWithinDays(int[] weights, int days) {
         int left = 0;
         int right = 0;
         for (int weight : weights) {
@@ -22,7 +26,7 @@ class Solution {
         return left;  
     }
     
-    private boolean canShip(int[] weights, int days, int capacity) {
+    private static  boolean canShip(int[] weights, int days, int capacity) {
         int currentLoad = 0;
         int requiredDays = 1;
         
