@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/kailzxh/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0945-snakes-and-ladders](https://github.com/kailzxh/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/kailzxh/LeetCode/tree/master/1036-rotting-oranges) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/kailzxh/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kailzxh/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/kailzxh/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/kailzxh/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/kailzxh/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/kailzxh/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/kailzxh/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Matrix
 |  |
