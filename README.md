@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kailzxh/LeetCode/tree/master/0022-generate-parentheses) |
 | [0165-compare-version-numbers](https://github.com/kailzxh/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/kailzxh/LeetCode/tree/master/0179-largest-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/kailzxh/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [1250-longest-common-subsequence](https://github.com/kailzxh/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Tree
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kailzxh/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0133-clone-graph](https://github.com/kailzxh/LeetCode/tree/master/0133-clone-graph) |
+| [0208-implement-trie-prefix-tree](https://github.com/kailzxh/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kailzxh/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2413-smallest-number-in-infinite-set](https://github.com/kailzxh/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/kailzxh/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/kailzxh/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [2413-smallest-number-in-infinite-set](https://github.com/kailzxh/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Ordered Set
 |  |
@@ -233,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/kailzxh/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/kailzxh/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
