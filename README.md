@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/kailzxh/LeetCode/tree/master/0016-3sum-closest) |
+| [0035-search-insert-position](https://github.com/kailzxh/LeetCode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/kailzxh/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/kailzxh/LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kailzxh/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/kailzxh/LeetCode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kailzxh/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/kailzxh/LeetCode/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/kailzxh/LeetCode/tree/master/0349-intersection-of-two-arrays) |
