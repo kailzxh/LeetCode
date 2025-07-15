@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/kailzxh/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1036-rotting-oranges](https://github.com/kailzxh/LeetCode/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/kailzxh/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1346-maximize-the-topmost-element-after-k-moves](https://github.com/kailzxh/LeetCode/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kailzxh/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/kailzxh/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/kailzxh/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/kailzxh/LeetCode/tree/master/0179-largest-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kailzxh/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1018-largest-perimeter-triangle](https://github.com/kailzxh/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1346-maximize-the-topmost-element-after-k-moves](https://github.com/kailzxh/LeetCode/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 | [2636-maximum-subsequence-score](https://github.com/kailzxh/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/kailzxh/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
