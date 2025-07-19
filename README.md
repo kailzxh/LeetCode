@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kailzxh/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/kailzxh/LeetCode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/kailzxh/LeetCode/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/kailzxh/LeetCode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/kailzxh/LeetCode/tree/master/0189-rotate-array) |
 | [1018-largest-perimeter-triangle](https://github.com/kailzxh/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/kailzxh/LeetCode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/kailzxh/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/kailzxh/LeetCode/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/kailzxh/LeetCode/tree/master/0338-counting-bits) |
