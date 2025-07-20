@@ -17,8 +17,6 @@ class Solution {
         if(val>max){
             ans =key;
             max=val;
-        }else{
-            max=max;
         }
        
        }
