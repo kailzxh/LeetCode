@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/kailzxh/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/kailzxh/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0274-h-index](https://github.com/kailzxh/LeetCode/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/kailzxh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kailzxh/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kailzxh/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/kailzxh/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/kailzxh/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kailzxh/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/kailzxh/LeetCode/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/kailzxh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kailzxh/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1018-largest-perimeter-triangle](https://github.com/kailzxh/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kailzxh/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kailzxh/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0133-clone-graph](https://github.com/kailzxh/LeetCode/tree/master/0133-clone-graph) |
 | [0208-implement-trie-prefix-tree](https://github.com/kailzxh/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0347-top-k-frequent-elements](https://github.com/kailzxh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kailzxh/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/kailzxh/LeetCode/tree/master/0383-ransom-note) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kailzxh/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/kailzxh/LeetCode/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/kailzxh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/kailzxh/LeetCode/tree/master/0383-ransom-note) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kailzxh/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Simulation
@@ -241,10 +245,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kailzxh/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/kailzxh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kailzxh/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/kailzxh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2413-smallest-number-in-infinite-set](https://github.com/kailzxh/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/kailzxh/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/kailzxh/LeetCode/tree/master/2636-maximum-subsequence-score) |
@@ -252,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kailzxh/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/kailzxh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Design
 |  |
 | ------- |
@@ -281,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/kailzxh/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/kailzxh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
