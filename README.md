@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/kailzxh/LeetCode/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/kailzxh/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0383-ransom-note](https://github.com/kailzxh/LeetCode/tree/master/0383-ransom-note) |
+| [1045-check-if-word-is-valid-after-substitutions](https://github.com/kailzxh/LeetCode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kailzxh/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1250-longest-common-subsequence](https://github.com/kailzxh/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Tree
@@ -307,5 +308,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1045-check-if-word-is-valid-after-substitutions](https://github.com/kailzxh/LeetCode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kailzxh/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
