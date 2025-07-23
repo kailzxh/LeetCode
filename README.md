@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/kailzxh/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/kailzxh/LeetCode/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/kailzxh/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/kailzxh/LeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0383-ransom-note](https://github.com/kailzxh/LeetCode/tree/master/0383-ransom-note) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/kailzxh/LeetCode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kailzxh/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -62,10 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/kailzxh/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/kailzxh/LeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/kailzxh/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/kailzxh/LeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/kailzxh/LeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/kailzxh/LeetCode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kailzxh/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
