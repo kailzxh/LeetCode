@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/kailzxh/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kailzxh/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/kailzxh/LeetCode/tree/master/0022-generate-parentheses) |
+| [0071-simplify-path](https://github.com/kailzxh/LeetCode/tree/master/0071-simplify-path) |
 | [0165-compare-version-numbers](https://github.com/kailzxh/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/kailzxh/LeetCode/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/kailzxh/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/kailzxh/LeetCode/tree/master/0071-simplify-path) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/kailzxh/LeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/kailzxh/LeetCode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kailzxh/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
