@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/kailzxh/LeetCode/tree/master/0584-find-customer-referee) |
 | [1155-product-sales-analysis-iii](https://github.com/kailzxh/LeetCode/tree/master/1155-product-sales-analysis-iii) |
 | [1258-article-views-i](https://github.com/kailzxh/LeetCode/tree/master/1258-article-views-i) |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/kailzxh/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1541-top-travellers](https://github.com/kailzxh/LeetCode/tree/master/1541-top-travellers) |
 | [1908-recyclable-and-low-fat-products](https://github.com/kailzxh/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Stack
