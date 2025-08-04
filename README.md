@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/kailzxh/LeetCode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/kailzxh/LeetCode/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/kailzxh/LeetCode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/kailzxh/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/kailzxh/LeetCode/tree/master/0189-rotate-array) |
 | [1018-largest-perimeter-triangle](https://github.com/kailzxh/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1236-n-th-tribonacci-number](https://github.com/kailzxh/LeetCode/tree/master/1236-n-th-tribonacci-number) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/kailzxh/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kailzxh/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/kailzxh/LeetCode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/kailzxh/LeetCode/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/kailzxh/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kailzxh/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kailzxh/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kailzxh/LeetCode/tree/master/0070-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/kailzxh/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Trie
 |  |
