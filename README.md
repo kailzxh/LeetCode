@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/kailzxh/LeetCode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kailzxh/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1250-longest-common-subsequence](https://github.com/kailzxh/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [2755-extra-characters-in-a-string](https://github.com/kailzxh/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Tree
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-total-cost-to-hire-k-workers](https://github.com/kailzxh/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/kailzxh/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/kailzxh/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2755-extra-characters-in-a-string](https://github.com/kailzxh/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kailzxh/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2413-smallest-number-in-infinite-set](https://github.com/kailzxh/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/kailzxh/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2755-extra-characters-in-a-string](https://github.com/kailzxh/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/kailzxh/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [1236-n-th-tribonacci-number](https://github.com/kailzxh/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/kailzxh/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [2755-extra-characters-in-a-string](https://github.com/kailzxh/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Combinatorics
 |  |
 | ------- |
@@ -318,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/kailzxh/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [2755-extra-characters-in-a-string](https://github.com/kailzxh/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Bucket Sort
 |  |
 | ------- |
