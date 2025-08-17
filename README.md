@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/kailzxh/LeetCode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kailzxh/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1250-longest-common-subsequence](https://github.com/kailzxh/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [2470-removing-stars-from-a-string](https://github.com/kailzxh/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2755-extra-characters-in-a-string](https://github.com/kailzxh/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Tree
 |  |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1505-create-target-array-in-the-given-order](https://github.com/kailzxh/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
+| [2470-removing-stars-from-a-string](https://github.com/kailzxh/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/kailzxh/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3790-fruits-into-baskets-ii](https://github.com/kailzxh/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/kailzxh/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/kailzxh/LeetCode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kailzxh/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2470-removing-stars-from-a-string](https://github.com/kailzxh/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
