@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kailzxh/LeetCode/tree/master/0189-rotate-array) |
 | [1018-largest-perimeter-triangle](https://github.com/kailzxh/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1236-n-th-tribonacci-number](https://github.com/kailzxh/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1448-maximum-69-number](https://github.com/kailzxh/LeetCode/tree/master/1448-maximum-69-number) |
 | [3201-distribute-candies-among-children-ii](https://github.com/kailzxh/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Recursion
 |  |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kailzxh/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1018-largest-perimeter-triangle](https://github.com/kailzxh/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1346-maximize-the-topmost-element-after-k-moves](https://github.com/kailzxh/LeetCode/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
+| [1448-maximum-69-number](https://github.com/kailzxh/LeetCode/tree/master/1448-maximum-69-number) |
 | [2636-maximum-subsequence-score](https://github.com/kailzxh/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/kailzxh/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
