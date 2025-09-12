@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/kailzxh/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kailzxh/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/kailzxh/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kailzxh/LeetCode/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kailzxh/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0071-simplify-path](https://github.com/kailzxh/LeetCode/tree/master/0071-simplify-path) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kailzxh/LeetCode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/kailzxh/LeetCode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kailzxh/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/kailzxh/LeetCode/tree/master/0316-remove-duplicate-letters) |
