@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/kailzxh/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kailzxh/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/kailzxh/LeetCode/tree/master/1448-maximum-69-number) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/kailzxh/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3201-distribute-candies-among-children-ii](https://github.com/kailzxh/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Recursion
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kailzxh/LeetCode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/kailzxh/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/kailzxh/LeetCode/tree/master/0143-reorder-list) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/kailzxh/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Array
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kailzxh/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/kailzxh/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1833-find-the-highest-altitude](https://github.com/kailzxh/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/kailzxh/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/kailzxh/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/kailzxh/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/kailzxh/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1505-create-target-array-in-the-given-order](https://github.com/kailzxh/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/kailzxh/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2470-removing-stars-from-a-string](https://github.com/kailzxh/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/kailzxh/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3790-fruits-into-baskets-ii](https://github.com/kailzxh/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -442,4 +446,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/kailzxh/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/kailzxh/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/kailzxh/LeetCode/tree/master/1833-find-the-highest-altitude) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/kailzxh/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
