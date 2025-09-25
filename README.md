@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/kailzxh/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/kailzxh/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kailzxh/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0526-beautiful-arrangement](https://github.com/kailzxh/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kailzxh/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/kailzxh/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0907-koko-eating-bananas](https://github.com/kailzxh/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/kailzxh/LeetCode/tree/master/0078-subsets) |
 | [0095-unique-binary-search-trees-ii](https://github.com/kailzxh/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0216-combination-sum-iii](https://github.com/kailzxh/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0526-beautiful-arrangement](https://github.com/kailzxh/LeetCode/tree/master/0526-beautiful-arrangement) |
 ## Two Pointers
 |  |
 | ------- |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kailzxh/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/kailzxh/LeetCode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/kailzxh/LeetCode/tree/master/0338-counting-bits) |
+| [0526-beautiful-arrangement](https://github.com/kailzxh/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kailzxh/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/kailzxh/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/kailzxh/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/kailzxh/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/kailzxh/LeetCode/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/kailzxh/LeetCode/tree/master/0338-counting-bits) |
+| [0526-beautiful-arrangement](https://github.com/kailzxh/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/kailzxh/LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Memoization
 |  |
@@ -450,4 +454,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kailzxh/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/kailzxh/LeetCode/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
