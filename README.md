@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kailzxh/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/kailzxh/LeetCode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/kailzxh/LeetCode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/kailzxh/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/kailzxh/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kailzxh/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/kailzxh/LeetCode/tree/master/0189-rotate-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/kailzxh/LeetCode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/kailzxh/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/kailzxh/LeetCode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/kailzxh/LeetCode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/kailzxh/LeetCode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/kailzxh/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/kailzxh/LeetCode/tree/master/0078-subsets) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kailzxh/LeetCode/tree/master/0048-rotate-image) |
 | [0289-game-of-life](https://github.com/kailzxh/LeetCode/tree/master/0289-game-of-life) |
 | [0945-snakes-and-ladders](https://github.com/kailzxh/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/kailzxh/LeetCode/tree/master/1036-rotting-oranges) |
