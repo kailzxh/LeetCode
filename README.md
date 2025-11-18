@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-maximize-the-topmost-element-after-k-moves](https://github.com/kailzxh/LeetCode/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kailzxh/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/kailzxh/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
+| [1552-build-an-array-with-stack-operations](https://github.com/kailzxh/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1580-shuffle-the-array](https://github.com/kailzxh/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1833-find-the-highest-altitude](https://github.com/kailzxh/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kailzxh/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0289-game-of-life](https://github.com/kailzxh/LeetCode/tree/master/0289-game-of-life) |
 | [1505-create-target-array-in-the-given-order](https://github.com/kailzxh/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
+| [1552-build-an-array-with-stack-operations](https://github.com/kailzxh/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kailzxh/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/kailzxh/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2470-removing-stars-from-a-string](https://github.com/kailzxh/LeetCode/tree/master/2470-removing-stars-from-a-string) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/kailzxh/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/kailzxh/LeetCode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kailzxh/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1552-build-an-array-with-stack-operations](https://github.com/kailzxh/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [2470-removing-stars-from-a-string](https://github.com/kailzxh/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
