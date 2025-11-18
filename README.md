@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/kailzxh/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/kailzxh/LeetCode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/kailzxh/LeetCode/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/kailzxh/LeetCode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/kailzxh/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/kailzxh/LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kailzxh/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
