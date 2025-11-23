@@ -456,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-percentage-of-users-attended-a-contest](https://github.com/kailzxh/LeetCode/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/kailzxh/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
 | [1877-find-followers-count](https://github.com/kailzxh/LeetCode/tree/master/1877-find-followers-count) |
+| [1907-count-salary-categories](https://github.com/kailzxh/LeetCode/tree/master/1907-count-salary-categories) |
 | [1908-recyclable-and-low-fat-products](https://github.com/kailzxh/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [1942-primary-department-for-each-employee](https://github.com/kailzxh/LeetCode/tree/master/1942-primary-department-for-each-employee) |
 | [2057-count-salary-categories](https://github.com/kailzxh/LeetCode/tree/master/2057-count-salary-categories) |
