@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2636-maximum-subsequence-score](https://github.com/kailzxh/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/kailzxh/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2755-extra-characters-in-a-string](https://github.com/kailzxh/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [3379-transformed-array](https://github.com/kailzxh/LeetCode/tree/master/3379-transformed-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/kailzxh/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Greedy
 |  |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/kailzxh/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2470-removing-stars-from-a-string](https://github.com/kailzxh/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/kailzxh/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [3379-transformed-array](https://github.com/kailzxh/LeetCode/tree/master/3379-transformed-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/kailzxh/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
