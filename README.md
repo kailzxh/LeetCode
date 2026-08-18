@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kailzxh/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kailzxh/LeetCode/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kailzxh/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/kailzxh/LeetCode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/kailzxh/LeetCode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/kailzxh/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/kailzxh/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/kailzxh/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/kailzxh/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/kailzxh/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/kailzxh/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/kailzxh/LeetCode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/kailzxh/LeetCode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/kailzxh/LeetCode/tree/master/0075-sort-colors) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kailzxh/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kailzxh/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/kailzxh/LeetCode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/kailzxh/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/kailzxh/LeetCode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/kailzxh/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kailzxh/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/kailzxh/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kailzxh/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kailzxh/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/kailzxh/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/kailzxh/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/kailzxh/LeetCode/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/kailzxh/LeetCode/tree/master/0141-linked-list-cycle) |
