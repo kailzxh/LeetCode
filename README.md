@@ -565,4 +565,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/kailzxh/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/kailzxh/LeetCode/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/kailzxh/LeetCode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
