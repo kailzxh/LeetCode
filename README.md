@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/kailzxh/LeetCode/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/kailzxh/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/kailzxh/LeetCode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/kailzxh/LeetCode/tree/master/0695-max-area-of-island) |
 | [0871-keys-and-rooms](https://github.com/kailzxh/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/kailzxh/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2121-find-if-path-exists-in-graph](https://github.com/kailzxh/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/kailzxh/LeetCode/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/kailzxh/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/kailzxh/LeetCode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/kailzxh/LeetCode/tree/master/0695-max-area-of-island) |
 | [0871-keys-and-rooms](https://github.com/kailzxh/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0945-snakes-and-ladders](https://github.com/kailzxh/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/kailzxh/LeetCode/tree/master/1036-rotting-oranges) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/kailzxh/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0560-subarray-sum-equals-k](https://github.com/kailzxh/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/kailzxh/LeetCode/tree/master/0645-set-mismatch) |
+| [0695-max-area-of-island](https://github.com/kailzxh/LeetCode/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kailzxh/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/kailzxh/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0907-koko-eating-bananas](https://github.com/kailzxh/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/kailzxh/LeetCode/tree/master/0048-rotate-image) |
 | [0289-game-of-life](https://github.com/kailzxh/LeetCode/tree/master/0289-game-of-life) |
+| [0695-max-area-of-island](https://github.com/kailzxh/LeetCode/tree/master/0695-max-area-of-island) |
 | [0945-snakes-and-ladders](https://github.com/kailzxh/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/kailzxh/LeetCode/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/kailzxh/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -569,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/kailzxh/LeetCode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/kailzxh/LeetCode/tree/master/0695-max-area-of-island) |
 ## Graph Theory
 |  |
 | ------- |
